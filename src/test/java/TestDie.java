@@ -1,8 +1,5 @@
-package edu.zju.sc.aoot;
-
+import edu.zju.sc.aoot.Die;
 import junit.framework.Assert;
-
-
 import org.junit.Test;
 
 public class TestDie {

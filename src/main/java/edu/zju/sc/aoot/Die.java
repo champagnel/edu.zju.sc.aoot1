@@ -64,7 +64,4 @@ public class Die {
 			e.printStackTrace();
 		}
 	}
-	public static void main(String []args){
-		print();
-	}
 }
