@@ -3,6 +3,8 @@ import edu.zju.sc.aoot.Die;
 import junit.framework.Assert;
 import org.junit.Test;
 
+import java.util.logging.Logger;
+
 public class TestDie {
 
 	@Test
